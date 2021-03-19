@@ -8,9 +8,8 @@ This is a solution to the [Blogr landing page challenge on Frontend Mentor](http
 - [The challenge](#the-challenge)
 - [Links](#links)
 - [Built with](#built-with)
-<!-- - [What I learned](#what-i-learned) -->
-- [Continued development](#continued-development)
-- [Author](#author)
+
+
 
 ### The challenge
 
@@ -23,8 +22,7 @@ Youtube:
 
 https://www.youtube.com/channel/UCEzLeU7OURzqrpOBYHLXf4w
 
-twitter:
-https://twitter.com/samcodes_
+
 
 ### Built with
 
